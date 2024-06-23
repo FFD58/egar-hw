@@ -2,4 +2,5 @@
 
 Диаграмма классов приложения:
 
-![Uploading UML.png…]()
+![UML](https://github.com/FFD58/egar-hw/assets/157573436/e06270d3-94fb-42d2-9d1c-fa058a4c2be7)
+
